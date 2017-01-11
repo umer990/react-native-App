@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/GolfSkiWorld/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29be50afdebfcc87b4e19cc310f28b78f5b80ec1">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/GolfSkiWorld-react-native-code-push-unspecified_23f723d947862c64a47a7bcd1e4afad76a6c7c9e.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_03df9b9eebd331034def73a7ca9c44516bf10c5b.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_076f90b664d2823b8381e149c185e761cad7b1a8.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/GolfSkiWorld/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c76e19928a3f24df07f90aa2a02d747c708dd9c">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/GolfSkiWorld-react-native-vector-icons-unspecified_5af421f82122899917d101c9c4b9db8c1e6e397a.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.30.0_a205696e1913e5ba4047d939c54fa8953e2cda62.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_ebd9e09702f4450368e3d97ec00c3318f576dd55.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_fa7e8ab3ca63e646b5426f0a70e76a1963dc528c.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_cbf252cdbfcbe26870306ddd88dcd19ad6f028ed.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_a74b3da6bb401ba252223fba5c8c66eee40366d7.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_08ee5c0d4297ec8a9257d281e22c374f20c783f3.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0_a61e78cffe605f5fb6acd86affa56058a99fcfa1.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0_0bf266352c0de01a5212920bb20ef35e179605c3.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/GolfSkiWorld/react-native-google-signin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c8152835a31faf4494a874e1eda13fb5cccea12d">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/GolfSkiWorld-react-native-google-signin-unspecified_bc060716a66a0a711027d83267a7227d962b92ab.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_117594412e41d1741bfefaf9648dd883e001829e.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_65feb34762dab8c4beb481d637eb0470dabc0e5d.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_3dbc8ef56f513509e4b2a238030d459cb9e6b996.jar" />
+    </item>
+    <item
+        jar="/Volumes/Workspace/Tools/DevTools/Android/SDK_MAC/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_eeea81808d3f9dbe8b4b02e183abe595fedae8c4.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_cc7557a40c84ad9cff880e32a6d5de9b8325008f.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_bb6fd6a3d708d370eac8be0bf0bb7af51a655d8b.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/GolfSkiWorld/react-native-facebook-login/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a935657114359ee7d384aa483329c40dc7acb52">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/GolfSkiWorld-react-native-facebook-login-unspecified_c3916fc623457540e9ff13b454fa34a245d5329d.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_261fd3d982dd335e94b0c8222a8aecbb0744816a.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0cbf9d241e45669fa53c6869bd13cf047fddb0ba.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0_7ad0d808a0a5db3304a843cb79cca1deacdc8806.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_2a4088ca11f9e899dd34be4a3570eb6c7d61f907.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_90d7332d474fad9641b615e237401e0dcb20904d.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_ed5df0ae4278f10901a1fbd6eabf0416796c7439.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/GolfSkiWorld/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13b1912515e442374b459f9c0ec89dcf7e1e48e0">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/GolfSkiWorld-react-native-maps-unspecified_4c4c0fbbbae7264a58160bf1f80a89549d5242a2.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_85cb8840d8b79670d616dc7ac851c52eb6ffdcaf.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53df71a373e68311fc2c587aa814db7f366ace95">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.10.1_63e433649eb77eb4a611c82bb3c8a46c8f0f3f99.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_6a939ab9b13aeb4220fdf22320c602b93c30e3de.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_aa11d0700a067698c020cbce9112e0003ae22c61.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_50dc6b2b638a1c7d363624de1b69e6ef55ef6f16.jar" />
+    </item>
+    <item
+        jar="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/binzailani3136/myWork/golfskiworldapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_2772ce70864fe8d158df5ec40abc0418626a4172.jar" />
+    </item>
+
+</items>

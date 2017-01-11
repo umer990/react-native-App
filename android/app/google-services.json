@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969221018354",
+    "project_id": "wit-golfskiworld"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969221018354:android:022bfd03648d6c8d",
+        "android_client_info": {
+          "package_name": "com.westindiatech.golfskiworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969221018354-epje7t89cmvdguvicm6hsqb32elqs1gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.westindiatech.golfskiworld",
+            "certificate_hash": "2884274A71974A4FE9CB5EDB99E8F999717CD736"
+          }
+        },
+        {
+          "client_id": "969221018354-409nd11ahj03tvu3r4mts2rq4fmu8fbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC56LUvVRO3s9fd-hGTyHyk5FQmuBSHyBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
